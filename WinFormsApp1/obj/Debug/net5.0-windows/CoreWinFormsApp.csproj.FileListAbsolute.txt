@@ -1,0 +1,17 @@
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.exe
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.deps.json
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.runtimeconfig.json
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.runtimeconfig.dev.json
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.dll
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\ref\CoreWinFormsApp.dll
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\bin\Debug\net5.0-windows\CoreWinFormsApp.pdb
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.csproj.GenerateResource.cache
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.AssemblyInfo.cs
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.dll
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\ref\CoreWinFormsApp.dll
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.pdb
+C:\Users\csi\source\repos\Drill10\WinFormsApp1\obj\Debug\net5.0-windows\CoreWinFormsApp.genruntimeconfig.cache
